@@ -1,4 +1,4 @@
-# CodeJumpstart C++ Boilerplate
+# Data Structures & Algorithms - C++
 
 This project was initialized using [CodeJumpstart](https://marketplace.visualstudio.com/items?itemName=amaan-ul-haq-siddiqui.codejumpstart). Fuel your projects, one setup at a time.
 
