@@ -1,0 +1,17 @@
+name: C++
+on:
+  push:
+    branches: [ main ]
+    paths: '**/**.cpp'
+  pull_request:
+    branches: [ main ]
+    paths: '**/**.cpp'
+  
+jobs:
+  cpplint:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v2
+    - run: pip install cpplint
+    - run: cpplint --counting=detailed --filter=-build/namespaces,-legal,-readability,-runtime,-whitespace --recursive .
