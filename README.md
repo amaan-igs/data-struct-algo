@@ -53,7 +53,7 @@ I have included solutions to various practice problems from platforms such as Le
 To get a local copy of this repository, clone it using the following command:
 
 ```bash
-git clone https://github.com/amaan-igs/dsa-cpp.git
+git clone https://github.com/amaan-igs/data-struct-algo
 ```
 
 This project was initialized using [CodeJumpstart](https://marketplace.visualstudio.com/items?itemName=amaan-ul-haq-siddiqui.codejumpstart). Fuel your projects, one setup at a time.
