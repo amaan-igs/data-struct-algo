@@ -1,5 +1,5 @@
 # Data Structures & Algorithms in C++
-
+[![C++](https://github.com/MakeContributions/DSA/actions/workflows/cpp.yml/badge.svg)](https://github.com/amaan-igs/data-struct-algo/actions/))
 ## About
 
 This repository contains various implementations of data structures and algorithms, alongside solutions to common problems. The goal is to solidify my understanding and improve my coding skills.
