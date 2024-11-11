@@ -7,4 +7,4 @@ int main() {
     return 0;
 }
 
-// Testing the Gitlab CI/CD pipeline
+// Testing the Gitlab CI/CD pipeline (mirror failed workflow is not triggered from GitHub to Gitlab)
